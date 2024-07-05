@@ -1,7 +1,6 @@
 # Drone_controler
 A drone control system with face detection and tracking
 
-# SkyCodePilot: A Tello Drone Programming Journey
 
 ## Project Overview
 
@@ -15,7 +14,6 @@ Through this project, I gained invaluable experience in:
 - Implementation of computer vision techniques for face tracking
 - Development of a custom mapping system for drone movement
 - Integration of keyboard controls for intuitive drone piloting
-- Application of PID control for smooth drone movements
 - Practical understanding of drone photography and video streaming
 
 ## Features
